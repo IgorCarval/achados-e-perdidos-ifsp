@@ -1,7 +1,7 @@
-##Regras de Negócio e Dinâmica do Sistema
+## Regras de Negócio e Dinâmica do Sistema
 
 
-#Para o pleno funcionamento no campus, o sistema seguirá o fluxo operacional descrito abaixo:
+# Para o pleno funcionamento no campus, o sistema seguirá o fluxo operacional descrito abaixo:
 
 Fluxo de Entrega: O sistema exibirá um aviso fixo e destacado em sua interface alertando que: "Todo objeto encontrado deve ser entregue fisicamente na CAE". O software atua estritamente como um vetor de informação, não substituindo o fluxo físico institucional.
 
